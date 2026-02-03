@@ -1,4 +1,4 @@
-# TP - Chat Client/Serveur WebSocket
+# Chat Client/Serveur WebSocket
 
 ## 📋 Description
 Ce projet est une implémentation pédagogique d'un chat en temps réel utilisant le protocole WebSocket.  
@@ -67,3 +67,4 @@ Les échanges se font en JSON, avec prise en charge des événements de connexio
 ### Client
 - Ouvrir simplement client/index.html dans un navigateur moderne (Chrome, Firefox, Edge).
 - Utiliser le port 1234 & l'IP 127.1.1.1 plus un pseudo
+
